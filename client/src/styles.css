@@ -1,0 +1,11 @@
+.color {
+  background-color: aliceblue;
+}
+.logo {
+  color: crimson;
+}
+
+.posts {
+  margin: 30px;
+  border-radius: 20px;
+}
